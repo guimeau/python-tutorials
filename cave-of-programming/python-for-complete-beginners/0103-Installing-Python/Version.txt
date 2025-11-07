@@ -1,0 +1,3 @@
+Python version command from terminal
+python --version
+python3 --version
